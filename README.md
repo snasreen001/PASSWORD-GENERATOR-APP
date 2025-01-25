@@ -1,5 +1,5 @@
 # Password Generator App 🔒<br>
-Link - https://snasreen001.github.io/PASSWORD-GENERATOR-APP/<br> 
+Link - https://snasreen001.github.io/PASSWORD-GENERATOR-APP/<br> <br>
 A sleek and user-friendly password generator built with HTML, CSS, and JavaScript. This app helps you create secure and customizable passwords for your online accounts with just a few clicks.
 
 <h2><b>Features</b></h2>
